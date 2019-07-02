@@ -1,2 +1,1 @@
-# AndroidExample
- HelloWord Android Example
+
